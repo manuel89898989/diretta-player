@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Kylian Mbappé",
+    "team": "PSG",
+    "match": "PSG-ARS",
+    "xG": 0.75,
+    "xA": 0.30
+  },
+  {
+    "name": "Lautaro Martínez",
+    "team": "Inter",
+    "match": "INT-NAP",
+    "xG": 0.62,
+    "xA": 0.20
+  }
+]
